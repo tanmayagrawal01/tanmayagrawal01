@@ -30,11 +30,11 @@
   
   ### 🛠️ My Arsenal
   
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python" height="40" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,html,css" height="40" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="40" />
   
 </div>
 
@@ -46,15 +46,13 @@
   
   ### 📈 GitHub Pulse
   
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tanmayagrawal01&show_icons=true&theme=react&border_radius=12&count_private=true" />
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayagrawal01&theme=react&border_radius=12" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayagrawal01&layout=compact&theme=react&border_radius=12&langs_count=6" />
-  </div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayagrawal01&show_icons=true&theme=radical&border_radius=12&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayagrawal01&theme=radical&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayagrawal01&layout=compact&theme=radical&border_radius=12&langs_count=6" />
   
   <br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=tanmayagrawal01&theme=onestar&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanmayagrawal01&theme=radical&row=1&column=7&no-frame=true" />
   
 </div>
 
