@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Banner_up (1).gif" alt="Profile Banner" width="100%" />
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Tanmay Agrawal</h1>
 <h3 align="center">MERN Stack Developer | Web Enthusiast | Lifelong Learner</h3>
@@ -54,3 +58,7 @@
 
 <!-- FOOTER -->
 <p align="center"><i>“Eat, Sleep, Code, Repeat.”</i></p>
+
+<p align="center">
+  <img src="assets/Banner_down.gif" alt="Footer Banner" width="100%" />
+</p>
