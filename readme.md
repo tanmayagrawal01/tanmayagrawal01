@@ -7,7 +7,6 @@
 
 <!-- Awesome Animated Graph (Mermaid) -->
 
-
 <!-- Tech Stack Badges -->
 ## 🛠️ Tech Stack
 
@@ -41,8 +40,8 @@
 <!-- Social Links Table-->
 ## 🌐 Connect with me
 
-| [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/> LinkedIn](#) | [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="24"/> Email](mailto:youremail@example.com) | [<img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" width="24"/> LeetCode](#) | [<img src="https://img.icons8.com/ios-filled/50/000000/codeforces.png" width="24"/> Codeforces](#) | [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/> GitHub](https://github.com/tanmayagrawal01) | [<img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="24"/> Twitter](#) |
-|---|---|---|---|---|---|
+| [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/> LinkedIn](https://www.linkedin.com/in/tanmay-agrawal-9b51a72a0/) | [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="24"/> Email](mailto:tanmay.agrawal_cs23@gla.ac.in) | [<img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" width="24"/> LeetCode](https://leetcode.com/u/Tanmay_agrawal8273/) | [<img src="https://img.icons8.com/ios-filled/50/000000/codeforces.png" width="24"/> Codeforces](https://codeforces.com/profile/codewithtanmay) | [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/> GitHub](https://github.com/tanmayagrawal01) |
+|---|---|---|---|---|
 
 <!-- Guestbook -->
 ## 📖 Guestbook
