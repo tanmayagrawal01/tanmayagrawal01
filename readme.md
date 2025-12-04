@@ -79,11 +79,11 @@
   
   ### 📈 GitHub Pulse
   
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <p align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=tanmayagrawal01&show_icons=true&theme=radical&border_radius=10&count_private=true&hide_border=true" />
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayagrawal01&theme=radical&border_radius=10&hide_border=true" />
-  </div>
-  <br/>
+  </p>
+  
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayagrawal01&layout=compact&theme=radical&border_radius=10&langs_count=8&hide_border=true" />
   
   <br/><br/>
