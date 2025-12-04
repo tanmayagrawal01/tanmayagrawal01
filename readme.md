@@ -104,9 +104,9 @@
   
   | Project | Description | Tech Stack |
   | :--- | :--- | :--- |
+  | **Caretaker Management System** | A platform that connects users with verified caretakers, enabling scheduling, service tracking, and secure communication. Built using server-side rendering for fast performance and clean UI. | MongoDB, Express.js, Node.js, EJS |
   | **Pharmacy Management System** | A comprehensive system for managing pharmacy orders and prescriptions. | React, Node.js, MongoDB |
   | **Portfolio Website** | Personal portfolio showcasing skills and projects. | HTML, CSS, JS |
-  | **Algorithm Visualizer** | Visualizing sorting and pathfinding algorithms. | React, D3.js |
 
 </div>
 
